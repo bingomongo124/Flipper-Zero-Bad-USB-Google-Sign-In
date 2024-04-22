@@ -1,3 +1,3 @@
 Instructions
 ---------------------
-1. Download - <code style="color : red">Google Account Login.txt</code> 
+1. Download $${\color{red}Google Account Login.txt}$$
